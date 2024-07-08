@@ -1,0 +1,16 @@
+.loder{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 12px solid red;
+    border-left: 12px solid rgb(0, 0, 0);
+    animation: loderanimation 0.5s ease-in 0.1s infinite normal;
+}
+@keyframes loderanimation{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
