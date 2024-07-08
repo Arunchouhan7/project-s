@@ -1,2 +1,17 @@
-# project-s
-it's just not project it's my ..
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> </title>
+    <link rel="stylesheet" href="practice.css">
+
+</head>
+<body>
+<div id="face">
+    <div class="eye1"></div>
+    <div class="eye2"></div>
+    <div id="mouth"></div>
+
+</div>
+</body>
